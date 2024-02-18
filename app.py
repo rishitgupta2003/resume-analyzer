@@ -73,7 +73,7 @@ def courseRecommend(courseList):
 
 def run():
     st.title("Resume Score Analyzer")
-    img = Image.open('.\Images\logo.jpg')
+    img = Image.open('https://github.com/rishitgupta2003/resume-analyzer/blob/main/Images/logo.jpg')
     img = img.resize((250, 250))
     st.image(img)
 
