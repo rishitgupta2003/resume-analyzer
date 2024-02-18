@@ -6,10 +6,7 @@
     "codespaces": {
       "openFiles": [
         "README.md",
-        "app.py",
-        "links.py",
-        "Uploaded_Resumes",
-        "Images"
+        "app.py"
       ]
     },
     "vscode": {
